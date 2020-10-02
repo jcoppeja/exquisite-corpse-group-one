@@ -1,5 +1,9 @@
 # exquisite-corpse-group-one
 
-three
-random 
-lines added
+three<br/>
+random<br/> 
+lines added<br/>
+trying if  
+spaces work  
+checking if /n 
+does anything
