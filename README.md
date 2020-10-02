@@ -7,5 +7,3 @@ trying if
 spaces work  
 checking if /n 
 Does anything
-
-AD added a new line.
