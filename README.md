@@ -7,3 +7,5 @@ trying if
 spaces work  
 checking if /n 
 does anything
+
+I added some text to this readme file
