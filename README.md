@@ -8,6 +8,7 @@ spaces work
 checking if /n 
 does anything
 
+<<<<<<< HEAD
 this is bernards line 1
 this is bernards line 2
 this is bernards line 3
